@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConcatenateMatrices/ConcatenateMatrices.iml" filepath="$PROJECT_DIR$/ConcatenateMatrices/ConcatenateMatrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/c1.iml" filepath="$PROJECT_DIR$/.idea/c1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complement/complement.iml" filepath="$PROJECT_DIR$/complement/complement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/createString/createString.iml" filepath="$PROJECT_DIR$/createString/createString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrixSum/matrixSum.iml" filepath="$PROJECT_DIR$/matrixSum/matrixSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/max/max.iml" filepath="$PROJECT_DIR$/max/max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
+    </modules>
+  </component>
+</project>
